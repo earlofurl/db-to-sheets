@@ -1,3 +1,5 @@
+#!usr/bin/env python3
+
 import pygsheets
 import psycopg2 as pg
 import pandas as pd
